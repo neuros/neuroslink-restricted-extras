@@ -1,0 +1,30 @@
+Source: neuroslink-restricted-extras
+Section: metapackages
+Priority: optional
+Maintainer: Tom Bruno <tbruno@neurostechnology.com>
+Uploaders: Tom Bruno <tbruno@neurostechnology.com
+Standards-Version: 3.8.0
+Build-Depends: debhelper (>= 6)
+
+Package: neuroslink-restricted-extras
+Architecture: any
+Depends: ${ubuntu-restricted-extras:Depends}
+Recommends: ${ubuntu-restricted-extras:Recommends}
+Description: Commonly used restricted packages 
+ This package depends on some commonly used packages in the Ubuntu 
+ multiverse repository. 
+ .
+ Installing this package will pull in support for MP3 playback and decoding,
+ support for various other audio formats (gstreamer plugins), Microsoft fonts,
+ Java runtime environment, Flash plugin, LAME (to create compressed audio 
+ files), and DVD playback.
+ .
+ Please note that this does not install libdvdcss2, and will not let you play 
+ encrypted DVDs. For more information, see 
+ https://help.ubuntu.com/community/RestrictedFormats/PlayingDVDs.
+ .
+ Please also note that packages from multiverse are restricted by copyright
+ or legal issues in some countries. See
+ http://www.ubuntu.com/ubuntu/licensing
+ for more information.
+

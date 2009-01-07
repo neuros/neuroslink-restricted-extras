@@ -1,0 +1,19 @@
+This is ubuntu-restricted-extras, a metapackage to make common 
+customizations easier.
+
+This package was originally put together by Michael Vogt
+<michael.vogt@canonical.com> 
+
+Edited by Tom Bruno <tbruno@neurostechnology.com> to fit the design
+and features of Neuros Link software.
+
+This package is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 2, or (at your option)
+any later version.
+
+You should have received a copy of the GNU General Public License with
+your Ubuntu system, in /usr/share/common-licenses/GPL.  If not, write
+to the Free Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston,
+MA 02110-1301, USA.
+

@@ -1,0 +1,12 @@
+neuroslink-restricted-extras (1.0) intrepid; urgency=low
+
+  * Renamed neuroslink-restricted-extras
+  * Removed Java jdk from list
+
+ -- Tom Bruno <tbruno@neurostechnology.com>  Tue, 06 Jan 2009 14:37:29 -0600
+
+neurostvpc-restricted-extras (1.0) intrepid; urgency=low
+
+  * Initial release
+
+ -- Tom Bruno <tbruno@neurostechnology.com>  Tue, 09 Dec 2008 13:44:49 -0600
